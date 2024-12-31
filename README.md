@@ -5,6 +5,7 @@
 | ------- |
 | [2734-array-prototype-last](https://github.com/JPraj902/LeetCode-Sol-Js/tree/main/2734-array-prototype-last) |
 | [1025-minimum-cost-for-tickets](https://github.com/JPraj902/LeetCode-Sol-Js/tree/master/1025-minimum-cost-for-tickets) |
+| [0027-remove-element](https://github.com/JPraj902/LeetCode-Sol-Js/tree/main/0027-remove-element) |
 ## Sorting
 ||
 | ------- |
