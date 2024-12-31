@@ -1,5 +1,3 @@
-# LeetCode-Sol-Js
-<!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
 |  |
