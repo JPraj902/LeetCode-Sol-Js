@@ -89,3 +89,27 @@ Licensed under the MIT License. Feel free to use the code for personal or educat
 For questions or suggestions, open an issue on [GitHub Issues](https://github.com/JPraj902/LeetCode-Sol-Js/issues).
 
 Happy Coding! 💻
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/JPraj902/LeetCode-Sol-Js/tree/master/0380-insert-delete-getrandom-o1) |
+## Hash Table
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/JPraj902/LeetCode-Sol-Js/tree/master/0380-insert-delete-getrandom-o1) |
+## Math
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/JPraj902/LeetCode-Sol-Js/tree/master/0380-insert-delete-getrandom-o1) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/JPraj902/LeetCode-Sol-Js/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/JPraj902/LeetCode-Sol-Js/tree/master/0380-insert-delete-getrandom-o1) |
+<!---LeetCode Topics End-->
