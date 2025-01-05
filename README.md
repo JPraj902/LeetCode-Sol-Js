@@ -95,6 +95,7 @@ Happy Coding! 💻
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/JPraj902/LeetCode-Sol-Js/tree/master/0238-product-of-array-except-self) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JPraj902/LeetCode-Sol-Js/tree/master/0380-insert-delete-getrandom-o1) |
 ## Hash Table
 |  |
@@ -112,4 +113,8 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/JPraj902/LeetCode-Sol-Js/tree/master/0380-insert-delete-getrandom-o1) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/JPraj902/LeetCode-Sol-Js/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
