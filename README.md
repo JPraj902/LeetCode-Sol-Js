@@ -122,4 +122,8 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/JPraj902/LeetCode-Sol-Js/tree/master/0134-gas-station) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/JPraj902/LeetCode-Sol-Js/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
