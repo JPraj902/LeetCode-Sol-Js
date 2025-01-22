@@ -98,6 +98,7 @@ Happy Coding! 💻
 | [0134-gas-station](https://github.com/JPraj902/LeetCode-Sol-Js/tree/master/0134-gas-station) |
 | [0238-product-of-array-except-self](https://github.com/JPraj902/LeetCode-Sol-Js/tree/master/0238-product-of-array-except-self) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JPraj902/LeetCode-Sol-Js/tree/master/0380-insert-delete-getrandom-o1) |
+| [1876-map-of-highest-peak](https://github.com/JPraj902/LeetCode-Sol-Js/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/JPraj902/LeetCode-Sol-Js/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/JPraj902/LeetCode-Sol-Js/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Hash Table
@@ -140,5 +141,10 @@ Happy Coding! 💻
 ## Matrix
 |  |
 | ------- |
+| [1876-map-of-highest-peak](https://github.com/JPraj902/LeetCode-Sol-Js/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/JPraj902/LeetCode-Sol-Js/tree/master/2145-grid-game) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1876-map-of-highest-peak](https://github.com/JPraj902/LeetCode-Sol-Js/tree/master/1876-map-of-highest-peak) |
 <!---LeetCode Topics End-->
