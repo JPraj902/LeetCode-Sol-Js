@@ -130,6 +130,7 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/JPraj902/LeetCode-Sol-Js/tree/master/0197-rising-temperature) |
+| [1908-recyclable-and-low-fat-products](https://github.com/JPraj902/LeetCode-Sol-Js/tree/master/1908-recyclable-and-low-fat-products) |
 ## String
 |  |
 | ------- |
